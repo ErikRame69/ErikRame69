@@ -6,10 +6,9 @@
 ### 🌱 I’m currently learning:
 - Full Stack Web Development And 
 - JAVA, 
-##### And I love it! ❤️❤️
+#### And I love it!! ❤️❤️
 
 ### 📫 How to reach me:
-You can send me a message at my LinkedIn profile 😊
-[Linkedin ![https://th.bing.com/th/id/OIP.ln07k4rRYjfRhp8Ybvb2LAHaCS?pid=ImgDet&rs=1]]((https://www.linkedin.com/in/erik-daniel-ramirez-mendoza-05a686225/))
+You can send me a message at my [Linkedin](https://www.linkedin.com/in/erik-daniel-ramirez-mendoza-05a686225/) profile 😊
 
-See you Later!!
+See you Later!! 🤧
