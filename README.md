@@ -1,10 +1,12 @@
 # Hi!✨
 ## Welcome, I was waiting for you! 😶‍🌫️😏🧐
 
+***
+
 > Engineer in process of the IPN - UPIICSA!!
 
 ### 🌱 I’m currently learning:
-- Full Stack Web Development And 
+- Full Stack Web Development
 - JAVA, 
 #### And I love it!! ❤️❤️
 
