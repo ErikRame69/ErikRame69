@@ -9,6 +9,8 @@
 - Python
 - Full Stack Web Development
 - JAVA
+- Angular
+- Ciber-security
 #### And I love it!! ❤️❤️
 ***
 ### 📫 How to reach me:
